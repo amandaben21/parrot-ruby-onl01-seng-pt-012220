@@ -1,3 +1,3 @@
 Def Squawk
 sound = "Squawk"
-puts "pa"
+puts " parrots "
