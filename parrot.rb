@@ -1,1 +1,2 @@
 Def Squawk
+sound = "Squawk"
